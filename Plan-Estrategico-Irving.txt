@@ -1,0 +1,10 @@
+_Aprender Angular JS
+_Estudiar Ingles
+_Curso de oracle con TalleresOracle
+_Hacer videos de documentacion de lo aprendido y publicar en youtube.
+_Trabajar en Proyecto "VentasHibernate".
+_Aprender a trabajar en LINUX.
+
+
+
+Nota: PUBLICAR LOS PROYECTOS EN GITHUB
